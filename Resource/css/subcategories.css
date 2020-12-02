@@ -1,0 +1,18 @@
+
+.option-icons-hide{
+    display: none !important;
+}
+
+.option-icons-show{
+    display: block !important;
+}
+
+.btn-edit-category, .btn-delete-category{
+    top: -16px;
+    left: 8px;
+}
+
+.btn-edit-category{
+    left: 0;
+}
+
